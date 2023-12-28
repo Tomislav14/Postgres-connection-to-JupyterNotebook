@@ -27,11 +27,6 @@ In this video, I showcase the process of connecting a PostgreSQL database to Jup
 The repository includes the following:
   **mp4.file**
 
-## Usage
-
-To explore the video demonstration:
-1. Access the Jupyter Notebook file (`your_notebook.ipynb`) in the repository.
-2. Execute the code cells to observe the process of connecting to the PostgreSQL database and running SQL queries.
 
 
 
