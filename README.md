@@ -25,8 +25,6 @@ In this video, I showcase the process of connecting a PostgreSQL database to Jup
 ## Contents
 
 The repository includes the following:
-- **Jupyter Notebook:** Contains the code used to establish the PostgreSQL database connection and execute SQL queries.
-- **Sample Data:** If applicable, any sample datasets or SQL dump files used in the demonstration.
   **mp4.file**
 
 ## Usage
